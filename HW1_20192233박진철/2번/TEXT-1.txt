@@ -1,0 +1,79 @@
+What Is Cryptanalysis?
+
+Cryptanalysis is the study and discovery of vulnerabilities within cryptographic algorithms 
+that can be used to decrypt ciphertext without the secret key.
+
+Written by Anthony Corbo
+Published on Jan. 03, 2023
+
+Cryptanalysis is the study and discovery of vulnerabilities within cryptographic algorithms 
+that can be used to decrypt ciphertext without knowledge of the secret key. 
+Several forms of cryptanalysis can be used to attack cryptographic messages, 
+ranging from the interception of messages within unsecured communication channels to 
+the matching of plaintext based on the same algorithm techniques. 
+Cryptanalysis also includes measures taken to stop attackers from decoding cryptographic algorithms.
+
+IS CRYPTANALYSIS STILL USED?
+
+Yes, cryptanalysis is used to discern the plaintext encoded within a cryptographic message. 
+This is done through the use of various methods that provide an attacker with information 
+that can be used to decode the encoded ciphertext. 
+The different forms of cryptanalysis are based upon the information 
+the attacker has in their possession and the means of decryption used. 
+
+Types of Cryptanalysis
+
+There are three generic forms of cryptanalysis: ciphertext-only, 
+known ciphertext/plaintext pairs and chosen plaintext or chosen ciphertext.
+
+In ciphertext-only cryptanalysis, 
+the attacker has the ciphertext available to them for decoding. 
+In known ciphertext/plaintext pair cryptanalysis, 
+attackers will know some element of the plaintext and will be able to match 
+likely elements of the ciphertext to the known plaintext. 
+For example, a computer session may begin with "LOG IN."
+
+Deciphering this string of text will also allow the attacker to decrypt plaintext 
+that matches the deciphered ciphertext throughout the message. 
+Chosen plaintext or chosen ciphertext cryptanalysis occurs 
+when the attacker unwittingly causes either the transmitter 
+to encrypt plaintext or the receiver to decrypt ciphertext. 
+This provides the attacker with an abundance of knowledge, 
+possibly even knowledge of the entire message's contents.
+
+What Is the Primary Goal of Cryptanalysis?
+
+Cryptanalysis is used to understand the contents of protected or encrypted messages 
+and data in order to gain access to either in-transit or at-rest data. 
+Attackers using cryptanalysis may have several goals for doing so, 
+but the ultimate goal is always some degree of cryptographic decryption 
+through either the ciphertext or plain text. 
+
+Some specific goals associated with cryptanalysis include a total break 
+(the locating of the secret key), 
+global deduction (the locating of a functionally equivalent algorithm 
+for encryption and decryption without knowledge of the secret key), 
+information deduction (the acquiring of a portion of information 
+about the plaintext or ciphertext that was not previously known), 
+and the distinguishing of the algorithm (giving the attacker the ability to determine 
+the encryption’s output from a random selection of plaintext).
+
+What Does a Cryptanalyst Do?
+
+Cryptanalysts can be hired to find security weaknesses, 
+potential data leak causes, discover evidence from encrypted messages and more.
+
+Cryptanalysts are often associated with government agencies or law enforcement, 
+hired to ensure agency encryption methods are up to par with the current standards 
+in cybersecurity and engage in the deciphering of encrypted messages. 
+Cryptanalysts do this by purposefully exploiting weaknesses so fixes can be applied. 
+As mentioned, government organizations often employ cryptanalysts 
+to decipher encrypted communications and law enforcement agencies will hire 
+cryptanalysts to decode encrypted messages within evidence or testify as experts on a case.
+
+Regardless of their industry or ethics, 
+cryptanalysts must have a strong understanding of mathematics, ciphers, codes, 
+and encryption systems, with daily responsibilities including analyzing intelligence information, 
+diagnosing weaknesses within cryptographic algorithms, developing new cryptanalysis tools and more.
+
+

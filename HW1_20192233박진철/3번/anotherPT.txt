@@ -1,0 +1,29 @@
+i am looking for the web site that defeats substitution ciphers. 
+could you suggest some?
+
+there are several websites that can help you defeat substitution ciphers. here are a few options:
+
+quipqiup - this website allows you to enter an encrypted message and will attempt to automatically decrypt it using a variety of techniques, including frequency analysis and dictionary attacks. you can also manually input letter substitutions to help the decryption process.
+
+rumkin - this website offers a variety of encryption and decryption tools, including several tools for defeating substitution ciphers. their substitution cipher solver allows you to manually input letter substitutions and will show you the decrypted message as you make changes.
+
+boxentriq - this website offers a substitution cipher solver that allows you to enter the encrypted message and manually input letter substitutions. it also provides some guidance on how to approach the decryption process.
+
+cryptocrack - this is a downloadable program that can be used to defeat substitution ciphers as well as other types of encryption. it uses a variety of techniques to attempt to automatically decrypt the message, and also allows for manual input of letter substitutions.
+
+note that while these tools can be helpful in defeating substitution ciphers, there is no guarantee that they will always be successful. the strength of a cipher depends on a variety of factors, including the length of the key and the specific encryption algorithm used.
+
+
+then, do you decypt the following message?
+
+-------------------------------------------------
+
+probably, it is hard for you to decrypt that.
+is that message too short?
+how about this?
+
+-------------------------------------------------
+
+still, is it difficult?
+do not be frustrated. keep trying later.
+bye.

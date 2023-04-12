@@ -1,0 +1,65 @@
+i am looking for the web site that defeats substitution ciphers. 
+could you suggest some?
+
+there are several websites that can help you defeat substitution ciphers. here are a few options:
+
+quipqiup - this website allows you to enter an encrypted message and will attempt to automatically decrypt it using a variety of techniques, including frequency analysis and dictionary attacks. you can also manually input letter substitutions to help the decryption process.
+
+rumkin - this website offers a variety of encryption and decryption tools, including several tools for defeating substitution ciphers. their substitution cipher solver allows you to manually input letter substitutions and will show you the decrypted message as you make changes.
+
+boxentriq - this website offers a substitution cipher solver that allows you to enter the encrypted message and manually input letter substitutions. it also provides some guidance on how to approach the decryption process.
+
+cryptocrack - this is a downloadable program that can be used to defeat substitution ciphers as well as other types of encryption. it uses a variety of techniques to attempt to automatically decrypt the message, and also allows for manual input of letter substitutions.
+
+note that while these tools can be helpful in defeating substitution ciphers, there is no guarantee that they will always be successful. the strength of a cipher depends on a variety of factors, including the length of the key and the specific encryption algorithm used.
+
+
+then, do you decypt the following message?
+
+
+there are three generic forms of cryptanalysis: ciphertext-only, 
+known ciphertext/plaintext pairs and chosen plaintext or chosen ciphertext.
+
+in ciphertext-only cryptanalysis, 
+the attacker has the ciphertext available to them for decoding. 
+in known ciphertext/plaintext pair cryptanalysis, 
+attackers will know some element of the plaintext and will be able to match 
+likely elements of the ciphertext to the known plaintext. 
+
+for example, a computer session may begin with "log in."
+
+deciphering this string of text will also allow the attacker to decrypt plaintext 
+that matches the deciphered ciphertext throughout the message. 
+chosen plaintext or chosen ciphertext cryptanalysis occurs 
+when the attacker unwittingly causes either the transmitter 
+to encrypt plaintext or the receiver to decrypt ciphertext. 
+this provides the attacker with an abundance of knowledge, 
+possibly even knowledge of the entire message's contents.
+
+
+probably, it is hard for you to decrypt that.
+is that message too short?
+how about this?
+
+what does a cryptanalyst do?
+
+cryptanalysts can be hired to find security weaknesses, 
+potential data leak causes, discover evidence from encrypted messages and more.
+
+cryptanalysts are often associated with government agencies or law enforcement, 
+hired to ensure agency encryption methods are up to par with the current standards 
+in cybersecurity and engage in the deciphering of encrypted messages. 
+cryptanalysts do this by purposefully exploiting weaknesses so fixes can be applied. 
+as mentioned, government organizations often employ cryptanalysts 
+to decipher encrypted communications and law enforcement agencies will hire 
+cryptanalysts to decode encrypted messages within evidence or testify as experts on a case.
+
+regardless of their industry or ethics, 
+cryptanalysts must have a strong understanding of mathematics, ciphers, codes, 
+and encryption systems, with daily responsibilities including analyzing intelligence information, 
+diagnosing weaknesses within cryptographic algorithms, developing new cryptanalysis tools and more.
+
+
+still, is it difficult?
+do not be frustrated. keep trying later.
+bye.
