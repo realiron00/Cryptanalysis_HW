@@ -1,2 +1,3 @@
 # 2023_cryptanalysis_HW
-3학년 암호분석 과제 보관용
+## 2023 Introduction to Cryptanalysis
+3학년 1학기 암호분석 과제 보관
